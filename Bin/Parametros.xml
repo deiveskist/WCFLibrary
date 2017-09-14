@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Parametros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
+ <StringConnection>Provider=SQLOLEDB.1;Integrated Security=SSPI;Persist Security Info=False;User ID=sa;Initial Catalog=DBGames;Data Source=DEIVES</StringConnection>
+</Parametros>

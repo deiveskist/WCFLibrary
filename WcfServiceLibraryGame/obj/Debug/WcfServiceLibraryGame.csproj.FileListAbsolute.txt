@@ -1,0 +1,7 @@
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceLibraryGame\bin\Debug\WcfServiceLibraryGame.dll
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceLibraryGame\bin\Debug\WcfServiceLibraryGame.pdb
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceLibraryGame\obj\Debug\WcfServiceLibraryGame.dll
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceLibraryGame\obj\Debug\WcfServiceLibraryGame.pdb
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\Bin\WcfServiceLibraryGame.dll
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\Bin\WcfServiceLibraryGame.pdb
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceLibraryGame\obj\Debug\WcfServiceLibraryGame.csprojResolveAssemblyReference.cache

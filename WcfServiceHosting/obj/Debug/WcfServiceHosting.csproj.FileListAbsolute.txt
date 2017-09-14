@@ -1,0 +1,8 @@
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceHosting\bin\WcfServiceHosting.dll.config
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceHosting\bin\WcfServiceHosting.dll
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceHosting\bin\WcfServiceHosting.pdb
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceHosting\bin\WcfServiceLibraryGame.dll
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceHosting\bin\WcfServiceLibraryGame.pdb
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceHosting\obj\Debug\WcfServiceHosting.csprojResolveAssemblyReference.cache
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceHosting\obj\Debug\WcfServiceHosting.dll
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WcfServiceHosting\obj\Debug\WcfServiceHosting.pdb

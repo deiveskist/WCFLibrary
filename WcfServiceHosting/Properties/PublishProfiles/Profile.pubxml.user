@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\TesteIIS\WCFGames</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WcfServiceHosting.dll">
+      <publishTime>09/12/2017 15:19:14</publishTime>
+    </File>
+    <File Include="bin/WcfServiceLibraryGame.dll">
+      <publishTime>09/12/2017 15:19:13</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/12/2017 13:22:26</publishTime>
+    </File>
+    <File Include="Service.svc">
+      <publishTime>09/12/2017 10:44:12</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/12/2017 11:18:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

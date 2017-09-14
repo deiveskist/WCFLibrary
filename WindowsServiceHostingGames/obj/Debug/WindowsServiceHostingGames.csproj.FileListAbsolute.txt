@@ -1,0 +1,11 @@
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WindowsServiceHostingGames\bin\Debug\WindowsServiceHostingGames.exe.config
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WindowsServiceHostingGames\bin\Debug\WindowsServiceHostingGames.exe
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WindowsServiceHostingGames\bin\Debug\WindowsServiceHostingGames.pdb
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WindowsServiceHostingGames\bin\Debug\WcfServiceLibraryGame.dll
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WindowsServiceHostingGames\bin\Debug\WcfServiceLibraryGame.pdb
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WindowsServiceHostingGames\obj\Debug\WindowsServiceHostingGames.csprojResolveAssemblyReference.cache
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WindowsServiceHostingGames\obj\Debug\WindowsServiceHostingGames.exe
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\WindowsServiceHostingGames\obj\Debug\WindowsServiceHostingGames.pdb
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\Bin\WindowsServiceHostingGames.exe.config
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\Bin\WindowsServiceHostingGames.exe
+C:\Users\deives\Documents\Projetos\WcfServiceLibraryGame\Bin\WindowsServiceHostingGames.pdb
